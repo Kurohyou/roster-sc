@@ -42,6 +42,9 @@ A simple script to generate a basic team roster web page.
 <li><a href="#installation">Installation</a></li>
 </ul>
 </li>
+<li>
+<a hrefe="#usage">Usage</a>
+</li>
 <li><a href="#license">License</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -72,6 +75,10 @@ A simple script to generate a basic team roster web page.
 ### Installation
 Download the package from the repository and use it in the directory it is in.
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Usage
+
+See [kurohyou_studios.html](./kurohyou_studios.html) for an example of the generated site.
 <!-- LICENSE -->
 
 ## License
