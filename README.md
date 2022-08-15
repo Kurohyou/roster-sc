@@ -18,7 +18,7 @@ A simple script to generate a basic team roster web page.
 <a href="https://github.com/Kurohyou/roster-sc"><strong>Explore the docs »</strong></a>
 <br/>
 <br/>
-<a href="https://github.com/Kurohyou/roster-sc">View Demo</a>
+<a href="./assets/videos/demo.mp4">View Demo</a>
 ·
 <a href="https://github.com/Kurohyou/roster-sc/issues">Report Bug</a>
 ·
@@ -51,9 +51,7 @@ A simple script to generate a basic team roster web page.
 
 ## About The Project
 
-<video src="assets/videos/demo.mp4" width=300/>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+![Product Name Screen Shot][product-screenshot]
 
 ### Built With
 - JS
@@ -110,4 +108,4 @@ This readme template adapted from the [Best-README-Template](https://github.com/
 [linkedin-url]: https://linkedin.com/in/Kurohyou
 [patreon-shield]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dkurohyoustudios%26type%3Dpatrons&style=flat
 [patreon-url]: https://patreon.com/kurohyoustudios
-[product-screenshot]: assets/videos/demo.mp4
+[product-screenshot]: assets/videos/demo.gif
