@@ -1,0 +1,29 @@
+{
+  "name": "roster-sc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurohyou/roster-sc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kurohyou/roster-sc/issues"
+  },
+  "homepage": "https://github.com/Kurohyou/roster-sc#readme",
+  "dependencies": {
+    "inquirer": "^9.1.0",
+    "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "jest": "^28.1.3"
+  }
+}
