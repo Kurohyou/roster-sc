@@ -50,7 +50,8 @@ A simple script to generate a basic team roster web page.
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Product Name Screen Shot][product-screenshot]
+
+<video src="assets/videos/demo.mp4" width=300/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
